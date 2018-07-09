@@ -1,5 +1,4 @@
-
-Tanlovni o'tkazish nizomi
+Tanlovning o'tkazilish nizomi
 
 I. Asosiy maqsad va vazifalar
 
@@ -150,12 +149,8 @@ VI. G‘oliblarni taqdirlash
 
 6.6.Tashkiliy qo‘mita tanlov doirasida internet va bevosita tanlovning rivojiga munosib hissa qo‘shgan ishlar yoki shaxslarni taqdirlash huquqiga egadir.
 
-VII. Tanlov nominatsiyalari
+VII. Tanlov nominatsiyasi
 
-Tanlov 3 ta nominatsiyalardan iborat:
+Tanlov quyidagi nominatsiya(lar)dan iborat:
 
-1."Eng yaxshi ta’limga oid veb-sayt” (Turli mavzularga yo‘naltirilgan o‘quv-tarbiyaviy mazmundagi saytlar, jurnal va kitoblarning elektron nusxalari, oilalar yoki ota-onalar ehtiyojiga ko‘ra foydalanishga mo‘ljallangan, shuningdek o‘zbek adabiyotining buyuk adiblari hayoti va ijodlari yoritilgan veb-saytlar);
-
-2."Eng yaxshi tadbirkor veb-sayti” (Kichik biznes va xususiy tadbirkorlik faoliyatini yoritishga va ishlab chiqarayotgan yoki sotayotgan maxsulotlarini namoyish etishga qaratilgan veb-saytlar);
-
-3."Eng yaxshi davlat tashkiloti veb-sayti” (Viloyatimizdagi hokimliklar, boshqarma va tashkilotlarning o‘z faoliyatini yoritgan veb-saytlari). 
+1."Eng yaxshi ta’limga oid veb-sayt” (Turli mavzularga yo‘naltirilgan o‘quv-tarbiyaviy mazmundagi saytlar, jurnal va kitoblarning elektron nusxalari, oilalar yoki ota-onalar ehtiyojiga ko‘ra foydalanishga mo‘ljallangan, shuningdek o‘zbek adabiyotining buyuk adiblari hayoti va ijodlari yoritilgan veb-saytlar).
