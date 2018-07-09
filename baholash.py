@@ -11,7 +11,6 @@ Tanlov ishtirokchilari tomonidan taqdim etilgan ishlarning baholash tizimi
  3.6 Foydalanish va ro`yxatdan o`tish qulayligi 10 ball
  3.7 Yangiliklardan xabardor qilish imkoniyati 10 ball
  3.8 Kontentning unikalligi 10 ball
- 3.9 Admin bilimi 10 ball
 
 4. Qo`shimcha baholash [bonus ballar]:
   4.1 Saytda AJAX JS kodlardan mohirona foydalanish 20 ball
